@@ -8,7 +8,7 @@ version = "1.0.0">
 <name> App6 Deslizar hacia la izquierda y a la derecha </name>
 
 <description>
-Aplicación que realiza el swipe	o deslizamiento en le dispositivo.
+Aplicación que realiza el swipe	o deslizamiento en le dispositivo
 </description>
 
 <author href="https://build.phonegap.com" email="cb16.hernandez.ramirez.kevinf@gmail.com">
@@ -16,9 +16,9 @@ Kevin Hernandez Ramirez
 </author>
 
 <!-- Personaliza la aplicacion y plataforma -->
- <preference name="orientation"	value="default" />
-<!-- <preference name="orientation"	value="portrait"/> -->
-<!-- <preference name="orientation"	value="landscape" /> -->
+<preference name="orientation"	value="default"/>
+<!-- <preference name="orientation"	value="portrait"/>
+<preference name="orientation"	value="landscape" /> -->
 <preference name="target-device" value="universal" />
 <preference name="fullscreen"	value="true"/>
 <preference name="android-installLocation" value="auto"/>
@@ -38,7 +38,7 @@ Kevin Hernandez Ramirez
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
-<plugin name="cordova-plugin-whitelist" source "npm"/>
+<plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Colocar icono app-->
 
